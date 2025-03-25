@@ -1,9 +1,10 @@
-package com.dailycodebuffer.security;
+package com.practicejwt.security;
 
-import com.dailycodebuffer.security.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
+
+import com.practicejwt.security.entity.User;
 
 import java.util.Collection;
 import java.util.Collections;

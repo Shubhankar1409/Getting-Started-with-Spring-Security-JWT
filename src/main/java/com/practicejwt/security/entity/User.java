@@ -1,4 +1,4 @@
-package com.dailycodebuffer.security.entity;
+package com.practicejwt.security.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

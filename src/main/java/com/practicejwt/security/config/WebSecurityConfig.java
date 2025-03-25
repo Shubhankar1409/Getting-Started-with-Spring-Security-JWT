@@ -1,4 +1,4 @@
-package com.dailycodebuffer.security.config;
+package com.practicejwt.security.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

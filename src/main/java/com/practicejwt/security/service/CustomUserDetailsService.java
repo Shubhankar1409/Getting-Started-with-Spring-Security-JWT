@@ -1,8 +1,9 @@
-package com.dailycodebuffer.security.service;
+package com.practicejwt.security.service;
 
-import com.dailycodebuffer.security.CustomUserDetails;
-import com.dailycodebuffer.security.entity.User;
-import com.dailycodebuffer.security.repository.UserRepository;
+import com.practicejwt.security.CustomUserDetails;
+import com.practicejwt.security.entity.User;
+import com.practicejwt.security.repository.UserRepository;
+
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

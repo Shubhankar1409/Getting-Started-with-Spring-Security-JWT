@@ -1,12 +1,13 @@
-package com.dailycodebuffer.security.service;
+package com.practicejwt.security.service;
 
-import com.dailycodebuffer.security.entity.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
+
+import com.practicejwt.security.entity.User;
 
 import javax.crypto.SecretKey;
 import java.util.Date;

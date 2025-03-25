@@ -1,12 +1,12 @@
-package com.dailycodebuffer.security.controller;
+package com.practicejwt.security.controller;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.dailycodebuffer.security.entity.User;
-import com.dailycodebuffer.security.repository.UserRepository;
-import com.dailycodebuffer.security.service.UserService;
+import com.practicejwt.security.entity.User;
+import com.practicejwt.security.repository.UserRepository;
+import com.practicejwt.security.service.UserService;
 
 @RestController
 public class UserController {

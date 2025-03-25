@@ -1,7 +1,8 @@
-package com.dailycodebuffer.security.service;
+package com.practicejwt.security.service;
 
-import com.dailycodebuffer.security.entity.User;
-import com.dailycodebuffer.security.repository.UserRepository;
+import com.practicejwt.security.entity.User;
+import com.practicejwt.security.repository.UserRepository;
+
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;

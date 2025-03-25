@@ -1,4 +1,4 @@
-package com.dailycodebuffer.security.controller;
+package com.practicejwt.security.controller;
 
 import org.springframework.web.bind.annotation.*;
 
