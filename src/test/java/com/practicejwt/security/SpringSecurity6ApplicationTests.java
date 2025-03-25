@@ -1,4 +1,4 @@
-package com.dailycodebuffer.security;
+package com.practicejwt.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
